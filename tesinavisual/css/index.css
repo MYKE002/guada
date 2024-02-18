@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(255, 255, 255);
+    background-image: url("");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+.title {
+    font-size: 60px;
+    text-transform: uppercase;
+    color: rgb(241, 97, 19);
+    font-size: xx-large;
+}
